@@ -1,0 +1,5 @@
+name: 'NVCHWA Webform Customizations'
+type: module
+description: 'NVCHWA Webform Customizations.'
+package: Custom
+core_version_requirement: ^10

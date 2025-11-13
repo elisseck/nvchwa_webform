@@ -1,0 +1,8 @@
+jump_to_stripe:
+  version: 1.x
+  js:
+    js/jump_to_stripe.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/drupal.ajax
